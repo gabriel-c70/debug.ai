@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/debug.ai.iml" filepath="$PROJECT_DIR$/.idea/debug.ai.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lexchat.iml" filepath="$PROJECT_DIR$/.idea/Lexchat.iml" />
+>>>>>>> lexchat/main
     </modules>
   </component>
 </project>
