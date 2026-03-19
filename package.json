@@ -1,0 +1,20 @@
+{
+  "name": "debug.ai",
+  "version": "1.0.0",
+  "description": "Welcome to **Lexchat**, an experimental AI project built from the ground up with passion, curiosity, and a vision to create a versatile digital assistant.   This is the **first publicly released version** — a small but powerful step toward a larger, more advanced AI ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-c70/debug.ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-c70/debug.ai/issues"
+  },
+  "homepage": "https://github.com/gabriel-c70/debug.ai#readme"
+}
