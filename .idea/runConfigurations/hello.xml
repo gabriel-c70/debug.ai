@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="hello" type="BunRunConfiguration" editBeforeRun="true" focusToolWindowBeforeRun="true" singleton="false">
+    <option name="program" value="frontend/hello.html" />
+    <option name="workingDirectory" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" withDebugger="true" />
+    </method>
+  </configuration>
+</component>
