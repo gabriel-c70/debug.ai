@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="hello" type="BunRunConfiguration" editBeforeRun="true" focusToolWindowBeforeRun="true" singleton="false">
+  <configuration default="false" name="work.js" type="BunRunConfiguration" editBeforeRun="true" focusToolWindowBeforeRun="true" singleton="false">
     <option name="program" value="frontend/hello.html" />
     <option name="workingDirectory" value="$PROJECT_DIR$" />
     <method v="2">

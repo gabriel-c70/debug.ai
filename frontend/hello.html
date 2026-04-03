@@ -3,16 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My First Web Page</title>
-
+    <title>LexChat</title>
     <link rel="stylesheet" href="hi.css">
-    <script src="work.js"></script>
+    <script src="work.js" defer></script>
 </head>
 <body>
-<h1 class="h1">
-    Hello World 
-</h1>
-<h2>Hi how are you</h2>
-<h3 class="man">Man this is amazing</h3>
+<h1>LexChat</h1>
+<p class="intro">Hi there, my name is LexChat</p>
+<p class="intro">I am here to help with anything</p>
+
+<div class="chat-container">
+    <div id="chatBox"></div>
+
+    <div class="input-area">
+        <textarea id="userInput" rows="3" cols="50" placeholder="Type your message..."></textarea>
+        <button class="button" onclick="sendMessage()">➤</button>
+    </div>
+</div>
+
+<div id="aiResponse"></div>
 </body>
 </html>
